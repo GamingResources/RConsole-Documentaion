@@ -56,3 +56,5 @@ getremotes.
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/fgasfga/misc-releases/main/RConsole%20Admin.lua'))()
 ```
+
+https://media.discordapp.net/attachments/1066614905291153448/1081544452348313600/hu5qxmio.png
